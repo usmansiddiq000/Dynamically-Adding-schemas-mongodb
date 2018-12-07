@@ -1,9 +1,14 @@
 # Dynamically-Adding-schemas-mongodb
 Dynamically adding database and schemas to mongodb using nodejs
-
+```
 git clone
+```
+```
 npm install
+```
+```
 node index.js
+```
 
 
 object should look like this
