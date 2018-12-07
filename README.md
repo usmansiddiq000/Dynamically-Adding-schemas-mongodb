@@ -7,6 +7,9 @@ node index.js
 
 
 object should look like this
+
+
+```
 {
     "databaseName": "mySpecificDataBase",
     "SchemaName": "mySpecificSchema",
@@ -25,6 +28,9 @@ object should look like this
         }
     ]
 }
+
+
+```
 
 
 and it will create db with name "mySpecificDataBase"
